@@ -1,2 +1,2 @@
-## Maximal-coverage-Problem-MCP---Case-Ohio-Banking-Problem
+## Maximal-coverage-Problem(MCP)--Ohio-Banking-Problem
 Project
